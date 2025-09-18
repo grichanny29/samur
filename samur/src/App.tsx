@@ -1,7 +1,7 @@
 
 
 
-function App () {	
+ export function App () {	
 
 const tracks = [
 	{id:1, title:'Musicfun soundtrek!',url:' https://musicfun.it-incubator.app/api/samurai-way-soundtrack.mp3'},
@@ -36,4 +36,4 @@ const tracks = [
   )
 }
 
-export default App
+
